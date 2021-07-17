@@ -15,12 +15,12 @@ First things first! Start by downloading the latest version of Python. For now t
 
 ### Using Google Colaboratory 
 
-You can use [colab](https://colab.research.google.com/notebooks/) online notebooks to write and execute python codes anytime and anywhere. Here are [features of Google Colaboratory](https://colab.research.google.com/notebooks/basic_features_overview.ipynb).
+Apart from the above Python IDEs, you can use [colab](https://colab.research.google.com/notebooks/) online notebooks to write and execute python codes anytime and anywhere. Here are [features of Google Colaboratory](https://colab.research.google.com/notebooks/basic_features_overview.ipynb).
 
 ### Learning Python
 
 Python learning sites are suited for both beginners and advanced programmers. With the help of these sites, you can learn and polish your coding skills in Python. The following are thirty (30) Python learning sites:
-1. Python.org
+1. [Python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 2. [codecademy](https://www.codecademy.com/catalog/language/python)
 3. [Udemy](https://www.udemy.com/course/python-for-beginners-learn-all-the-basics-of-python/)
 4. Learn Python the Hard Way
