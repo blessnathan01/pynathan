@@ -19,36 +19,34 @@ Apart from the above Python IDEs, you can use [colab](https://colab.research.goo
 
 ### Learning Python
 
-Python learning sites are suited for both beginners and advanced programmers. With the help of these sites, you can learn and polish your coding skills in Python. The following are thirty (30) Python learning sites:
+Python learning sites are suited for both beginners and advanced programmers. With the help of these sites, you can learn and polish your coding skills in Python. The following are 28 Python learning sites:
 1. [Python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers)
-2. [codecademy](https://www.codecademy.com/catalog/language/python)
+2. [Codecademy](https://www.codecademy.com/catalog/language/python)
 3. [Udemy](https://www.udemy.com/course/python-for-beginners-learn-all-the-basics-of-python/)
-4. Learn Python the Hard Way
-5. Invent with Python
-6. Pythonspot
-7. AfterHoursProgramming.com
-8. Coursera
-9. Tutorials Point
-10. Codementor
-11. Google’s Python Class eBook
-12. Dive Into Python 3
-13. NewCircle Python Fundamentals Training
-14. Studytonight
-15. Python Tutor
-16. Crash into Python
-17. Real Python
-18. Full Stack Python
-19. Python for Beginners
-20. Python Course
-21. The Hitchhiker’s Guide to Python!
-22. Python Guru
-23. Python for You and Me
-24. PythonLearn
-25. Learning to Python
-26. Interactive Python
-27. PythonChallenge.com
-28. IntelliPaat
-29. Sololearn
-30. W3Schools
+4. [Pythonspot](https://pythonspot.com/)
+5. [After Hours Programming](https://www.afterhoursprogramming.com/tutorial/python/)
+6. [Coursera](https://www.coursera.org/courses?query=python)
+7. Tutorials Point
+8. Codementor
+9. Google’s Python Class eBook
+10. Dive Into Python 3
+11. NewCircle Python Fundamentals Training
+12. Studytonight
+13. Python Tutor
+14. Crash into Python
+15. Real Python
+16. Full Stack Python
+17. Python for Beginners
+18. Python Course
+19. The Hitchhiker’s Guide to Python!
+20. Python Guru
+21. Python for You and Me
+22. PythonLearn
+23. Learning to Python
+24. Interactive Python
+25. PythonChallenge.com
+26. IntelliPaat
+27. Sololearn
+28. W3Schools
 
 <hr>
