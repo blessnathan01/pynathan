@@ -34,8 +34,8 @@ Python learning sites are suited for both beginners and advanced programmers. Wi
 12. [Studytonight](https://www.studytonight.com/python/)
 <!-- 13. Python Tutor -->
 14. [Coding club](https://ourcodingclub.github.io/tutorials/python_crash_course/)
-15. Real Python
-16. Full Stack Python
+15. [Real Python](https://realpython.com/)
+16. [Full Stack Python](https://www.fullstackpython.com/)
 17. Python for Beginners
 18. Python Course
 19. The Hitchhiker’s Guide to Python!
