@@ -43,15 +43,16 @@ Python learning sites are suited for both beginners and advanced programmers. Wi
 21. [Udacity](https://www.udacity.com/course/introduction-to-python--ud1110)
 22. [Stacksocial](https://stacksocial.com/sales/python-for-beginners-2017?utm_source=google&utm_medium=cpc&utm_campaign=10753222727&utm_term=&gclid=CjwKCAjwos-HBhB3EiwAe4xM9wj4b8bcJu4fbj7JFnkaLWiLkaEiyZl_7DebsW4FpG-efJFpKu0_HxoCOj0QAvD_BwE)
 23. [Python Course](https://www.python-course.eu/)
-24. The Hitchhiker’s Guide to Python!
-25. Python Guru
-26. Python for You and Me
-27. PythonLearn
-28. Learning to Python
-29. Interactive Python
-30. PythonChallenge.com
-31. IntelliPaat
-32. Sololearn
-33. W3Schools
+24. [DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_source=adwords_ppc&utm_campaignid=12492439802&utm_adgroupid=122563402721&utm_device=c&utm_keyword=guide%20python%20language&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=504154682782&utm_targetid=aud-743261776262:kwd-1189985826958&utm_loc_interest_ms=&utm_loc_physical_ms=1012831&gclid=CjwKCAjwos-HBhB3EiwAe4xM9zDYgCTFbbattpyG-z_XkP0bvH3dXI2CZDOf374trxdr7Rlcwij4FBoCBdoQAvD_BwE)
+25. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+26. Python Guru
+27. Python for You and Me
+28. PythonLearn
+29. Learning to Python
+30. Interactive Python
+31. PythonChallenge.com
+32. IntelliPaat
+33. Sololearn
+34. W3Schools
 
 <hr>
