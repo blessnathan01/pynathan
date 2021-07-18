@@ -26,14 +26,14 @@ Python learning sites are suited for both beginners and advanced programmers. Wi
 4. [Pythonspot](https://pythonspot.com/)
 5. [After Hours Programming](https://www.afterhoursprogramming.com/tutorial/python/)
 6. [Coursera](https://www.coursera.org/courses?query=python)
-7. Tutorials Point
-8. Codementor
-9. Google’s Python Class eBook
-10. Dive Into Python 3
-11. NewCircle Python Fundamentals Training
-12. Studytonight
-13. Python Tutor
-14. Crash into Python
+7. [Tutorials Point](https://www.tutorialspoint.com/python3/index.htm)
+8. [Codementor](https://www.codementor.io/collections/learn-python-online-bwbc63ulz)
+9. [Google’s Python Class](https://developers.google.com/edu/python)
+10. [Dive Into Python 3](https://diveintopython3.problemsolving.io/)
+<!-- 11. NewCircle Python Fundamentals Training -->
+12. [Studytonight](https://www.studytonight.com/python/)
+<!-- 13. Python Tutor -->
+14. [Coding club](https://ourcodingclub.github.io/tutorials/python_crash_course/)
 15. Real Python
 16. Full Stack Python
 17. Python for Beginners
