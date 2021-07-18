@@ -36,17 +36,18 @@ Python learning sites are suited for both beginners and advanced programmers. Wi
 14. [Coding club](https://ourcodingclub.github.io/tutorials/python_crash_course/)
 15. [Real Python](https://realpython.com/)
 16. [Full Stack Python](https://www.fullstackpython.com/)
-17. Python for Beginners
-18. Python Course
-19. The Hitchhiker’s Guide to Python!
-20. Python Guru
-21. Python for You and Me
-22. PythonLearn
-23. Learning to Python
-24. Interactive Python
-25. PythonChallenge.com
-26. IntelliPaat
-27. Sololearn
-28. W3Schools
+17. [Programiz](https://www.programiz.com/python-programming)
+18. [Learn Python](https://www.programiz.com/python-programming)
+19. Python Course
+20. The Hitchhiker’s Guide to Python!
+21. Python Guru
+22. Python for You and Me
+23. PythonLearn
+24. Learning to Python
+25. Interactive Python
+26. PythonChallenge.com
+27. IntelliPaat
+28. Sololearn
+29. W3Schools
 
 <hr>
