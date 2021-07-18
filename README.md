@@ -19,7 +19,7 @@ Apart from the above Python IDEs, you can use [colab](https://colab.research.goo
 
 ### Learning Python
 
-Python learning sites are suited for both beginners and advanced programmers. With the help of these sites, you can learn and polish your coding skills in Python. The following are 28 Python learning sites:
+Python learning sites are suited for both beginners and advanced programmers. With the help of these sites, you can learn and polish your coding skills in Python. The following are 34 Python learning sites:
 1. [Python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 2. [Codecademy](https://www.codecademy.com/catalog/language/python)
 3. [Udemy](https://www.udemy.com/course/python-for-beginners-learn-all-the-basics-of-python/)
@@ -45,7 +45,7 @@ Python learning sites are suited for both beginners and advanced programmers. Wi
 23. [Python Course](https://www.python-course.eu/)
 24. [DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_source=adwords_ppc&utm_campaignid=12492439802&utm_adgroupid=122563402721&utm_device=c&utm_keyword=guide%20python%20language&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=504154682782&utm_targetid=aud-743261776262:kwd-1189985826958&utm_loc_interest_ms=&utm_loc_physical_ms=1012831&gclid=CjwKCAjwos-HBhB3EiwAe4xM9zDYgCTFbbattpyG-z_XkP0bvH3dXI2CZDOf374trxdr7Rlcwij4FBoCBdoQAvD_BwE)
 25. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
-26. Python Guru
+26. [Python Guru](https://thepythonguru.com/)
 27. Python for You and Me
 28. PythonLearn
 29. Learning to Python
