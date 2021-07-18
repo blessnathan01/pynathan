@@ -30,27 +30,28 @@ Python learning sites are suited for both beginners and advanced programmers. Wi
 8. [Codementor](https://www.codementor.io/collections/learn-python-online-bwbc63ulz)
 9. [Google’s Python Class](https://developers.google.com/edu/python)
 10. [Dive Into Python 3](https://diveintopython3.problemsolving.io/)
-<!-- 11. NewCircle Python Fundamentals Training -->
-12. [Studytonight](https://www.studytonight.com/python/)
-<!-- 13. Python Tutor -->
-14. [Coding club](https://ourcodingclub.github.io/tutorials/python_crash_course/)
-15. [Real Python](https://realpython.com/)
-16. [Full Stack Python](https://www.fullstackpython.com/)
-17. [Programiz](https://www.programiz.com/python-programming)
-18. [Learn Python](https://www.programiz.com/python-programming)
-19. [Pluralsight](https://www.pluralsight.com/courses/python-getting-started?aid=7010a000002LUv2AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=XYZ_EMEA_Dynamic&utm_content=&cq_cmp=1576650371&gclid=CjwKCAjwos-HBhB3EiwAe4xM9ymzDD8WPlzjeNoyZ3WpzwSKBnJgWmKyKeC95tl2Y6rhTbqEir6egBoClgkQAvD_BwE)
-20. [edX](https://www.edx.org/learn/python)
-21. [Online Learning](https://online-learning.harvard.edu/subject/python)
-22. Python Course
-23. The Hitchhiker’s Guide to Python!
-24. Python Guru
-25. Python for You and Me
-26. PythonLearn
-27. Learning to Python
-28. Interactive Python
-29. PythonChallenge.com
-30. IntelliPaat
-31. Sololearn
-32. W3Schools
+11. [Studytonight](https://www.studytonight.com/python/)
+12. [Coding club](https://ourcodingclub.github.io/tutorials/python_crash_course/)
+13. [Real Python](https://realpython.com/)
+14. [Full Stack Python](https://www.fullstackpython.com/)
+15. [Programiz](https://www.programiz.com/python-programming)
+16. [Learn Python 1](https://www.programiz.com/python-programming)
+17. [Learnpython.org](https://www.learnpython.org/)
+18. [Pluralsight](https://www.pluralsight.com/courses/python-getting-started?aid=7010a000002LUv2AAG&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=XYZ_EMEA_Dynamic&utm_content=&cq_cmp=1576650371&gclid=CjwKCAjwos-HBhB3EiwAe4xM9ymzDD8WPlzjeNoyZ3WpzwSKBnJgWmKyKeC95tl2Y6rhTbqEir6egBoClgkQAvD_BwE)
+19. [edX](https://www.edx.org/learn/python)
+20. [Online Learning](https://online-learning.harvard.edu/subject/python)
+21. [Udacity](https://www.udacity.com/course/introduction-to-python--ud1110)
+22. [Stacksocial](https://stacksocial.com/sales/python-for-beginners-2017?utm_source=google&utm_medium=cpc&utm_campaign=10753222727&utm_term=&gclid=CjwKCAjwos-HBhB3EiwAe4xM9wj4b8bcJu4fbj7JFnkaLWiLkaEiyZl_7DebsW4FpG-efJFpKu0_HxoCOj0QAvD_BwE)
+23. [Python Course](https://www.python-course.eu/)
+24. The Hitchhiker’s Guide to Python!
+25. Python Guru
+26. Python for You and Me
+27. PythonLearn
+28. Learning to Python
+29. Interactive Python
+30. PythonChallenge.com
+31. IntelliPaat
+32. Sololearn
+33. W3Schools
 
 <hr>
