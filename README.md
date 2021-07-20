@@ -46,8 +46,8 @@ Python learning sites are suited for both beginners and advanced programmers. Wi
 24. [DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_source=adwords_ppc&utm_campaignid=12492439802&utm_adgroupid=122563402721&utm_device=c&utm_keyword=guide%20python%20language&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=504154682782&utm_targetid=aud-743261776262:kwd-1189985826958&utm_loc_interest_ms=&utm_loc_physical_ms=1012831&gclid=CjwKCAjwos-HBhB3EiwAe4xM9zDYgCTFbbattpyG-z_XkP0bvH3dXI2CZDOf374trxdr7Rlcwij4FBoCBdoQAvD_BwE)
 25. [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 26. [Python Guru](https://thepythonguru.com/)
-27. Python for You and Me
-28. PythonLearn
+27. [Python for You and Me](https://pymbook.readthedocs.io/en/latest/)
+28. [PythonLearn](https://github.com/SabiKov/PythonLearn)
 29. Learning to Python
 30. Interactive Python
 31. PythonChallenge.com
