@@ -49,11 +49,10 @@ Python learning sites are suited for both beginners and advanced programmers. Wi
 27. [Python for You and Me](https://pymbook.readthedocs.io/en/latest/)
 28. [PythonLearn](https://github.com/SabiKov/PythonLearn)
 29. [Dataquest](https://www.dataquest.io/blog/learn-python-the-right-way/)
-30. Learning to Python
-31. Interactive Python
-32. PythonChallenge.com
-33. IntelliPaat
-34. Sololearn
-35. W3Schools
+30. Interactive Python
+31. PythonChallenge.com
+32. IntelliPaat
+33. Sololearn
+34. W3Schools
 
 <hr>
