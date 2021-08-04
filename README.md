@@ -19,7 +19,7 @@ Apart from the above Python IDEs, you can use [colab](https://colab.research.goo
 
 ### Learning Python
 
-Python learning sites are suited for both beginners and advanced programmers. With the help of these sites, you can learn and polish your coding skills in Python. The following are 34 Python learning sites:
+Python learning sites are suited for both beginners and advanced programmers. With the help of these sites, you can learn and polish your coding skills in Python. The following are 33 Python learning sites:
 1. [Python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers)
 2. [Codecademy](https://www.codecademy.com/catalog/language/python)
 3. [Udemy](https://www.udemy.com/course/python-for-beginners-learn-all-the-basics-of-python/)
@@ -49,10 +49,9 @@ Python learning sites are suited for both beginners and advanced programmers. Wi
 27. [Python for You and Me](https://pymbook.readthedocs.io/en/latest/)
 28. [PythonLearn](https://github.com/SabiKov/PythonLearn)
 29. [Dataquest](https://www.dataquest.io/blog/learn-python-the-right-way/)
-30. Interactive Python
-31. PythonChallenge.com
-32. IntelliPaat
-33. Sololearn
-34. W3Schools
+30. [Python Challenge](http://www.pythonchallenge.com/)
+31. IntelliPaat
+32. Sololearn
+33. W3Schools
 
 <hr>
