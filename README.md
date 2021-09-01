@@ -5,7 +5,7 @@ It is all about Python version 3 and above
 
 ### Installing the latest version of Python
 
-First things first! Start by downloading the latest version of Python. For now the latest version of Python is [Version 3.9.6](https://www.python.org/downloads/). Follow the instructions to install Python 3.9.6 on [Windows](https://www.python.org/downloads/windows/), [Mac OS X](https://www.python.org/downloads/mac-osx/), [Linux/UNIX](https://www.python.org/downloads/source/), [Other](https://www.python.org/download/other/).
+First things first! Start by downloading the latest version of Python. For now the latest version of Python is [Version 3.9.7](https://www.python.org/downloads/). Follow the instructions to install Python 3.9.7 on [Windows](https://www.python.org/downloads/windows/), [Mac OS X](https://www.python.org/downloads/mac-osx/), [Linux/UNIX](https://www.python.org/downloads/source/), [Other](https://www.python.org/download/other/).
 
 ### Installing Python IDEs
 
